@@ -10,6 +10,13 @@ contractual customer relationships:
 
 Figure Source: ["Probability Models for Customer-Base Analysis" (Fader and Hardie 2009)](https://marketing.wharton.upenn.edu/files/?whdmsaction=public:main.file&amp;fileID=341)
 
+## Instructions
+
+1. Clone this repo
+2. In the folder, At the command line, execute `pip install -e .`
+3. Open a python shell, `import shifted_beta_geometric` should work
+
+
 ## Example
 
 ```python
